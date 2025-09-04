@@ -1,0 +1,5 @@
+bing.com
+ya.ru
+https://google.com
+# Этот комментарий будет проигнорирован
+github.com
